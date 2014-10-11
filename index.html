@@ -8,13 +8,115 @@
     <meta name="author" content="">
 
     <title>My Profile</title>
+      <style>
+         header{
+             z-index: 200;
+             margin: 0 auto;
+             padding: 2em;
+             width: 100%;
+             text-align: center;
+             -webkit-backface-visibility: hidden;
+             background-color: white;
+         }
+         body{
+             background-color: white;
+         }
+          header p{
+              font-size: 1em;
+              margin: .1em 0 .6em;
+              display: inline-block;
+              font-style: italic;
+              padding: 6px 10px;
+              background: #FAF46A;
+              color: #345;
+              color: rgba(0,0,0,.7);
+              border-radius: 4px;
+              line-height: 1;
+          }
+         .vs-nav {
+             width: 33.33%;
+             max-width: 360px;
+             height: 60px;
+         }
+         .vs-nav {
+             position: relative;
+             display: block;
+             margin: .9em auto 0 auto;
+             padding: 0;
+             list-style: none;
+         }
+          .vs-nav .vs-nav-current {
+             left: 0%;
+              visibility: visible;
+         }
 
+         .vs-nav li {
+             display: inline-block;
+             margin-bottom: 10px;
+             text-align: center;
+             text-decoration: none;
+             position: absolute;
+             visibility:hidden;
+             width: 100%;
+         }
+          .vs-nav .vs-nav-right {
+             left: 100%;
+              visibility: visible;
+         }
+         .vs-nav .vs-nav-left {
+             left: -100%;
+             visibility: visible;
+         }
+         .vs-nav li a {
+             font-family: Arial, Helvetica, sans-serif;
+             position: relative;
+             color: #D0DADC;
+             letter-spacing: -3px;
+             text-decoration: none;
+             font-weight: 700;
+             font-size: 2.7em;
+         }
+         a:focus,.vs-nav .vs-nav-current a, .vs-nav li.current_page_item a, .container.vs-move-left .vs-nav-right a, .container.vs-move-right .vs-nav-left a {
+             color: #345;
+         }
+         .vs-nav li a:hover {
+             color: #BECACC;
+         }
+        .vs-nav .vs-nav-current a {
+             cursor: default;
+         }
+         .vs-nav .vs-nav-current a:hover {
+             color: #345;
+         }
+      .wrapper {
+             min-height: 100%;
+          position: relative;
+          display: block;
+          overflow: hidden;
+          width: 100%;
+         }
+          .wrapper .vs-current {
+             position: relative;
+             z-index: 100;
+         }
+         .wrapper > section {
+             width: 90%;
+             left: 5%;
+         }
+         .wrapper > section {
+             z-index: 1;
+             min-height: 100%;
+             margin: 0 auto;
+             padding: 0 0 30px;
+             width: 100%;
+             background: #fff;
+      </style>
     <!-- Bootstrap core CSS -->
     <link href="public/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="public/bootstrap/css/cover.css" rel="stylesheet">
-
+    <link href="public/Nprogress/css/NProgress.css" rel="stylesheet">
 
 
 
@@ -26,45 +128,121 @@
     <style type="text/css" id="holderjs-style"></style></head>
 
 <body>
-
-<div class="site-wrapper">
-
-    <div class="site-wrapper-inner">
-
-        <div class="cover-container">
-
-            <div class="masthead clearfix">
-                <div class="inner">
-                    <h3 class="masthead-brand">Viki Srinivasan</h3>
-                    <ul class="nav masthead-nav">
-                        <li class="active"><a href="#">About</a></li>
-                        <li><a href="#">Portfolio</a></li>
-                        <li><a href="#">Resume</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
+<header>
+    <img src="public/images/avatar.png" width="160" height="160">
+    <h3>Vignesh Srinivasan</h3>
+    <p>Web Developer</p>
+    <ul id="nav" class="menu-custom vs-nav"><li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53 vs-nav-current"><a href="#/about-me">about me</a></li>
+        <li id="menu-item-54" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54 vs-nav-right"><a href="#/portfolio">portfolio</a></li>
+        <li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a href="#/contact">contact</a></li>
+        <li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="#/blog">blog</a></li>
+        <li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57 vs-nav-left"><a href="#/resume">resume</a></li>
+    </ul>
+</header>
+<div class="wrapper">
+<section id="about-me" class="vs-current">
+    <div class="content">
+        <div class="row">
+            <div class=" col-md-8">
+                <h2 class="section-title"><span><i class="fa icon-guest"></i>A LITTLE ABOUT ME</span></h2>
+                <div class="intro">
+                    <h2>
+                        <p>Hello. I am <span class="rotate-words"><span class="rotate-out">an illustrator.</span><span class="rotate-out">a writer.</span><span class="rotate-out">a freelancer.</span><span class="rotate-out">an inventor.</span><span class="rotate-out">a wordpress fan.</span><span class="rotate-in active">a coffee lover.</span></span></p>
+                        <p>I live in a small town somewhere in the world.</p>
+                        <p>I am passionated about <strong>minimalistic</strong> and flat design.</p>
+                    </h2>
                 </div>
             </div>
-
-            <div class="inner cover">
-                <ul class="thumbnails">
-                   <li>
-                       <img
-                   </li>
-
-                </ul>
+            <div class=" col-md-4">
+                <h2 class="section-title"><span><i class="fa icon-twitter"></i>LATEST TWEETS</span></h2>
+                <div id="latest-tweets" class="widget-twitter" data-twitterid="388393979672150017" data-tweet-count="1" data-include-retweets="false"><ul><li><p class="tweet">Tips on creating documentation for your files <a href="http://t.co/CvWIS5LgWq" data-expanded-url="http://buff.ly/1s0YBXw" target="_blank" title="http://buff.ly/1s0YBXw" data-scribe="element:url"><span>http://</span><span>buff.ly/1s0YBXw</span><span></span><span><span>&nbsp;</span></span></a></p><p class="timePosted">Posted 8 hours ago</p><p class="interact"><a href="https://twitter.com/intent/tweet?in_reply_to=520933859010281472" class="twitter_reply_icon">Reply</a><a href="https://twitter.com/intent/retweet?tweet_id=520933859010281472" class="twitter_retweet_icon">Retweet</a><a href="https://twitter.com/intent/favorite?tweet_id=520933859010281472" class="twitter_fav_icon">Favorite</a></p></li></ul></div>
             </div>
-
-            <div class="mastfoot">
-                <div class="inner">
-                    <p>Cover template for <a href="http://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+        </div>
+        <h2 class="section-title"><span><i class="fa fa-magic"></i>SERVICES</span></h2>
+        <div class="row">
+            <div class="col-sm-6 col-md-3">
+                <div class="service color1"><i class="fa fa-html5"></i><p></p>
+                    <h4>WEB DESIGN</h4>
+                    <p>I design super cool websites. It is a long established fact that a reader will be distracted by the readable content.</p>
                 </div>
             </div>
-
+            <div class="col-sm-6 col-md-3">
+                <div class="service color2"><i class="fa fa-font"></i><p></p>
+                    <h4>TYPE DESIGN</h4>
+                    <p>I can design beautiful type faces for both digital and print media. It is a long established fact that a reader will be distracted.</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="service color3"><i class="fa icon-smashmag"></i><p></p>
+                    <h4>BLOG WRITER</h4>
+                    <p>I write about web design. It is a long established fact that a reader will be distracted by the readable content.</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="service color4"><i class="fa fa-rocket"></i><p></p>
+                    <h4>PROJECT MANAGEMENT</h4>
+                    <p>I have strong project management skills. It is a long established fact that a reader will be distracted by the readable content.</p>
+                </div>
+            </div>
+        </div>
+        <h2 class="section-title"><span><i class="fa icon-layers-alt"></i>WORK PROCESS</span></h2>
+        <div class="row">
+            <div class="col-sm-4 col-xs-6 col-md-2">
+                <div class="process">
+                    <div class="process-box"><i class="fa icon-lamp"></i><br>
+                        <h4>IDEA</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-6 col-md-2">
+                <div class="process">
+                    <div class="process-box"><i class="fa fa-puzzle-piece"></i><br>
+                        <h4>CONCEPT</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-6 col-md-2">
+                <div class="process">
+                    <div class="process-box"><i class="fa icon-brush"></i><br>
+                        <h4>DESIGN</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-6 col-md-2">
+                <div class="process">
+                    <div class="process-box"><i class="fa fa-code"></i><br>
+                        <h4>DEVELOP</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-6 col-md-2">
+                <div class="process">
+                    <div class="process-box"><i class="fa fa-bug"></i><br>
+                        <h4>TEST</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-6 col-md-2">
+                <div class="process">
+                    <div class="process-box"><i class="fa fa-rocket"></i><br>
+                        <h4>LAUNCH</h4>
+                    </div>
+                </div>
+            </div>
         </div>
 
+
+
+
     </div>
+    <!-- end .content -->
+</section>
+
+
 
 </div>
+
+ </body>
 
 <!-- Bootstrap core JavaScript
 ================================================== -->
@@ -74,6 +252,6 @@
 <script src="public/bootstrap/js/docs.js"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="public/bootstrap/js/ie10-viewport-bug-workaround.js"></script>
-
-
+<script src="public/bootstrap/js/ie10-viewport-bug-workaround.js"></script>
+<script src="public/index.js"></script>
 <div data-original-title="Copy to clipboard" title="" style="position: absolute; left: 0px; top: -9999px; width: 15px; height: 15px; z-index: 999999999;" class="global-zeroclipboard-container" id="global-zeroclipboard-html-bridge">      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="global-zeroclipboard-flash-bridge" height="100%" width="100%">         <param name="movie" value="/assets/flash/ZeroClipboard.swf?noCache=1413057384476">         <param name="allowScriptAccess" value="sameDomain">         <param name="scale" value="exactfit">         <param name="loop" value="false">         <param name="menu" value="false">         <param name="quality" value="best">         <param name="bgcolor" value="#ffffff">         <param name="wmode" value="transparent">         <param name="flashvars" value="trustedOrigins=getbootstrap.com%2C%2F%2Fgetbootstrap.com%2Chttp%3A%2F%2Fgetbootstrap.com">         <embed src="Cover%20Template%20for%20Bootstrap_files/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" name="global-zeroclipboard-flash-bridge" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="trustedOrigins=getbootstrap.com%2C%2F%2Fgetbootstrap.com%2Chttp%3A%2F%2Fgetbootstrap.com" scale="exactfit" height="100%" width="100%">                </object></div></body></html>
