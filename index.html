@@ -110,15 +110,113 @@
              padding: 0 0 30px;
              width: 100%;
              background: #fff;
+         }
+         .content {
+             position: relative;
+             padding: 1em 2em;
+             margin: auto;
+             width: 100%;
+             text-align: left;
+         }
+         .section-title {
+             position: relative;
+             margin-bottom: 1em;
+             font-size: 1em;
+             font-weight: 400;
+             width: 100%;
+
+         }
+          h2{
+              font-family: "Lato";
+          }
+         .section-title:before {
+             content: "";
+             position: absolute;
+             top: 50%;
+             left: 0;
+             width: 100%;
+             border-bottom: 4px solid #EAEEEF;
+         }
+          .section-title span {
+              position: relative;
+              display: inline-block;
+              padding-right: 1.4em;
+              background: #fff;
+          }
+         .intro {
+             text-align: center;
+             padding: 0 0 1em 0;
+         }
+         .intro h2 {
+             font-size: 2.0em;
+             font-weight: 300;
+             line-height: 1.4;
+         }
+         .intro p {
+             margin: 0px;
+         }
+         .rotate-words {
+             display: inline-block;
+             min-width: 180px;
+             min-height: 34px;
+             text-align: left;
+             text-indent: 4px;
+         }
+         .rotate-words span:first-child {
+             opacity: 1;
+         }
+
+
+         .rotate-words span {
+             position: absolute;
+             opacity: 0;
+             overflow: hidden;
+             font-weight: 800;
+             letter-spacing: -2px;
+         }
+
+         .rotate-words span {
+             position: absolute;
+             opacity: 0;
+             overflow: hidden;
+             font-weight: 800;
+             letter-spacing: -2px;
+         }
+         .widget-twitter ul {
+             list-style: none;
+             padding: 0;
+         }
+         .widget-twitter li {
+             position: relative;
+             margin-bottom: .2em;
+             padding-top: .1em;
+         }
+         .widget-twitter .tweet {
+             padding: 1.2em 1.6em;
+             color: #6A7686;
+             background: #E4F1F6;
+             border-radius: 4px;
+         }
+          img{
+              padding-right: 5px;
+          }
+         .widget-twitter .timePosted {
+             font-size: .8em;
+             color: #B7C6C9;
+             margin-top: -12px;
+             text-align: center;
+             letter-spacing: 1px;
+             text-transform: uppercase;
+         }
       </style>
     <!-- Bootstrap core CSS -->
     <link href="public/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="public/bootstrap/css/cover.css" rel="stylesheet">
-    <link href="public/Nprogress/css/NProgress.css" rel="stylesheet">
 
-
+    <link href="public/font-awesome-4.2.0/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -143,8 +241,8 @@
 <section id="about-me" class="vs-current">
     <div class="content">
         <div class="row">
-            <div class=" col-md-8">
-                <h2 class="section-title"><span><i class="fa icon-guest"></i>A LITTLE ABOUT ME</span></h2>
+            <div class=" col-md-7">
+                <h2 class="section-title"><span><img src="public/images/user.png">A LITTLE ABOUT ME</span></h2>
                 <div class="intro">
                     <h2>
                         <p>Hello. I am <span class="rotate-words"><span class="rotate-out">an illustrator.</span><span class="rotate-out">a writer.</span><span class="rotate-out">a freelancer.</span><span class="rotate-out">an inventor.</span><span class="rotate-out">a wordpress fan.</span><span class="rotate-in active">a coffee lover.</span></span></p>
@@ -154,12 +252,15 @@
                 </div>
             </div>
             <div class=" col-md-4">
-                <h2 class="section-title"><span><i class="fa icon-twitter"></i>LATEST TWEETS</span></h2>
-                <div id="latest-tweets" class="widget-twitter" data-twitterid="388393979672150017" data-tweet-count="1" data-include-retweets="false"><ul><li><p class="tweet">Tips on creating documentation for your files <a href="http://t.co/CvWIS5LgWq" data-expanded-url="http://buff.ly/1s0YBXw" target="_blank" title="http://buff.ly/1s0YBXw" data-scribe="element:url"><span>http://</span><span>buff.ly/1s0YBXw</span><span></span><span><span>&nbsp;</span></span></a></p><p class="timePosted">Posted 8 hours ago</p><p class="interact"><a href="https://twitter.com/intent/tweet?in_reply_to=520933859010281472" class="twitter_reply_icon">Reply</a><a href="https://twitter.com/intent/retweet?tweet_id=520933859010281472" class="twitter_retweet_icon">Retweet</a><a href="https://twitter.com/intent/favorite?tweet_id=520933859010281472" class="twitter_fav_icon">Favorite</a></p></li></ul></div>
+                <h2 class="section-title"><span><img src="public/images/tweet.png">LATEST TWEETS</span></h2>
+                <div id="latest-tweets" class="widget-twitter" data-twitterid="388393979672150017" data-tweet-count="1" data-include-retweets="false"><ul><li><p class="tweet">Tips on creating documentation for your files <a href="http://t.co/CvWIS5LgWq" data-expanded-url="http://buff.ly/1s0YBXw" target="_blank" title="http://buff.ly/1s0YBXw" data-scribe="element:url"><span>http://</span><span>buff.ly/1s0YBXw</span><span></span><span><span>&nbsp;</span></span></a></p><p class="timePosted">Posted 8 hours ago</p><p class="interact"><a href="https://twitter.com/intent/tweet?screen_name=VikiSrinivasan&original_referer=http%3A%2F%2Flocalhost%3A63342%2Fsrinivasanviki.github.io%2Findex.html&profile_id=2853172370&tw_p=embeddedtimeline&tw_w=521287243512565761">Reply</a></p></li></ul></div>
             </div>
+
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
         </div>
-        <h2 class="section-title"><span><i class="fa fa-magic"></i>SERVICES</span></h2>
-        <div class="row">
+        <h2 class="section-title" style="width:91%"><span><img src="public/images/services.png">SERVICES</span></h2>
+        <div class="row" style="margin-right: 87px;">
             <div class="col-sm-6 col-md-3">
                 <div class="service color1"><i class="fa fa-html5"></i><p></p>
                     <h4>WEB DESIGN</h4>
@@ -185,51 +286,8 @@
                 </div>
             </div>
         </div>
-        <h2 class="section-title"><span><i class="fa icon-layers-alt"></i>WORK PROCESS</span></h2>
-        <div class="row">
-            <div class="col-sm-4 col-xs-6 col-md-2">
-                <div class="process">
-                    <div class="process-box"><i class="fa icon-lamp"></i><br>
-                        <h4>IDEA</h4>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-6 col-md-2">
-                <div class="process">
-                    <div class="process-box"><i class="fa fa-puzzle-piece"></i><br>
-                        <h4>CONCEPT</h4>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-6 col-md-2">
-                <div class="process">
-                    <div class="process-box"><i class="fa icon-brush"></i><br>
-                        <h4>DESIGN</h4>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-6 col-md-2">
-                <div class="process">
-                    <div class="process-box"><i class="fa fa-code"></i><br>
-                        <h4>DEVELOP</h4>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-6 col-md-2">
-                <div class="process">
-                    <div class="process-box"><i class="fa fa-bug"></i><br>
-                        <h4>TEST</h4>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-6 col-md-2">
-                <div class="process">
-                    <div class="process-box"><i class="fa fa-rocket"></i><br>
-                        <h4>LAUNCH</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
 
 
 
