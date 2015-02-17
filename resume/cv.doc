@@ -1,0 +1,203 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Arial;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Wingdings-Regular;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Abyssinica SIL;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Century Gothic;}
+{\f5\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f6\fnil\fcharset0\fprq0\fttruetype MS Mincho;}
+{\f7\fnil\fcharset0\fprq0\fttruetype Tahoma;}
+{\f8\fnil\fcharset0\fprq0\fttruetype Liberation Serif;}
+{\f9\fnil\fcharset0\fprq0\fttruetype Lohit Hindi;}
+{\f10\fnil\fcharset0\fprq0\fttruetype Book Antiqua;}
+{\f11\fnil\fcharset0\fprq0\fttruetype Courier New;}
+{\f12\fnil\fcharset0\fprq0\fttruetype Symbol;}
+{\f13\fnil\fcharset0\fprq0\fttruetype Wingdings;}
+{\f14\fnil\fcharset0\fprq0\fttruetype Calibri;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;
+\red0\green0\blue10;}
+{\stylesheet
+{\s2\f7\fs16\lang0 Balloon Text;}
+{\s30\sbasedon71 Endnote Text;}
+{\s83\sl286\slmult1\sa117\cf3\f1\fs24\b\lang1025\sbasedon71 Text Body;}
+{\*\cs32\f0\fs24 Footer Char;}
+{\s17\fi-423\li2880\cf3\f9\fs24\lang1025\sbasedon56\snext71 Contents 4;}
+{\s36\fs20\sbasedon71 Footnote Text;}
+{\s29\f8\fs24\lang0 Endnote Symbol;}
+{\*\cs62\f11 ListLabel 3;}
+{\s74\tx431\f8\fs24\lang0\sbasedon44\snext71 Numbered Heading 2;}
+{\s37\sl286\slmult1\sa117\cf3\f1\fs24\b\lang1025\sbasedon83 Frame Contents;}
+{\s87\fi-423\li720\f0\fs24\lang0 Triangle List;}
+{\*\cs26\fs20\super Endnote Anchor;}
+{\s70\fi-423\li423\f8\fs28\b\lang0 Nome;}
+{\s88\fi-423\li720\f8\fs24\lang0\sbasedon76 Upper Case List;}
+{\s79\fi-423\li720\f0\fs24\lang0 Square List;}
+{\s84\qj\li360\sa117\f8\fs24\lang0 Text Body Indent;}
+{\s38\fi-423\li720\f0\fs24\lang0 Hand List;}
+{\s5\sa117\f8\fs16\lang0 Body Text 3;}
+{\*\cs3\f7\fs16 Balloon Text Char;}
+{\s41\sb240\sa117\cf3\f5\fs28\lang1025\sbasedon71\snext83 Heading;}
+{\s89\fi-423\li720\f8\fs24\lang0\sbasedon76 Upper Roman List;}
+{\s59\li720\f8\fs24\lang0 List Paragraph;}
+{\s71\cf3\f0\fs24\lang1025 Normal;}
+{\s82\f8\fs24\lang0 Table Grid;}
+{\s13\tx1584\f8\fs24\lang0\sbasedon73\snext71 Chapter Heading;}
+{\*\cs43\f0\fs24\b Heading 1 Char;}
+{\s21\sbasedon71 Default Style;}
+{\s73\tx431\f8\fs24\lang0\sbasedon42\snext71 Numbered Heading 1;}
+{\s25\fi-288\li288\cf3\f0\fs24\lang1025\sbasedon71 Endnote;}
+{\*\cs47\f10\fs22\b Heading 3 Char;}
+{\s33\fi-288\li288\cf3\f0\fs20\lang1025\sbasedon71 Footnote;}
+{\s75\tx431\f8\fs24\lang0\sbasedon46\snext71 Numbered Heading 3;}
+{\s69\cf3\f0\fs24\lang1025\sbasedon71 No List;}
+{\*\cs9\fs22 Body Text Indent Char;}
+{\s56\cf3\f9\fs24\lang1025\sbasedon71 Index;}
+{\s39\tqc\tx4320\tqr\tx8640\cf3\f0\fs24\lang1025\sbasedon90 Header;}
+{\*\cs91 apple-converted-space;}
+{\*\cs6\fs16 Body Text 3 Char;}
+{\s67\fi-423\li720\f8\fs24\lang0\sbasedon76 Lower Case List;}
+{\*\cs50\f0\fs20\i Heading 6 Char;}
+{\s18\qc\sb240\sa117\cf3\f5\fs32\b\lang1025\sbasedon71\snext71 Contents Header;}
+{\s12\sb117\sa117\cf3\f9\fs24\i\lang1025\sbasedon71 Caption;}
+{\s10\fi-423\li720\f0\fs24\lang0 Box List;}
+{\s1\fi-423\li720\f0\fs24\lang0 Arrowhead List;}
+{\*\cs27 Endnote Characters;}
+{\*\cs52\f0\fs22 Heading 9 Char;}
+{\*\cs60\f11 ListLabel 1;}
+{\*\cs61\f12 ListLabel 2;}
+{\s53\fi-423\li720\f0\fs24\lang0 Heart List;}
+{\*\cs20 Default Paragraph Font;}
+{\*\cs64\f12 ListLabel 5;}
+{\*\cs65\f11 ListLabel 6;}
+{\*\cs66\f13 ListLabel 7;}
+{\s11\fi-423\li720\f0\fs24\lang0 Bullet List;}
+{\*\cs24\i\sbasedon20 Emphasis;}
+{\*\cs34\fs20\super Footnote Anchor;}
+{\s31\tqc\tx4320\tqr\tx8640\cf3\f0\fs24\lang1025\sbasedon71 Footer;}
+{\s72\sl274\slmult1\sa200\f14\fs22\lang0 Normal Table;}
+{\s94\sb240\sa60\f0\fs22\sbasedon90\snext90 heading 9;}
+{\*\cs95\sbasedon20 page number;}
+{\s14\fi-423\li720\cf3\f0\fs24\lang1025\sbasedon71\snext71 Contents 1;}
+{\s15\fi-423\li1440\cf3\f0\fs24\lang1025\sbasedon71\snext71 Contents 2;}
+{\s16\fi-423\li2160\cf3\f0\fs24\lang1025\sbasedon71\snext71 Contents 3;}
+{\*\cs28\fs20\super Endnote Reference;}
+{\s68\fi-423\li720\cf3\f0\fs24\lang1025\sbasedon71 Lower Roman List;}
+{\*\cs45\f0\fs20\i\b\sbasedon20 Heading 2 Char;}
+{\*\cs63\f13 ListLabel 4;}
+{\s22\fi-423\li720\f0\fs24\lang0 Diamond List;}
+{\*\cs7\f1\fs20\b Body Text Char;}
+{\*\cs54\sbasedon20 Hyperlink;}
+{\*\cs35\fs20\super Footnote Reference;}
+{\s78\tx1584\sbasedon73\snext71 Section Heading;}
+{\s58\sl286\slmult1\sa117\cf3\f9\fs24\b\lang1025\sbasedon83 List;}
+{\s90\cf3\f0\fs24\lang1025\sbasedon71 _Normal;}
+{\s77\cf3\f11\fs24\lang1025\sbasedon71 Plain Text;}
+{\s76\fi-423\li720\f0\fs24\lang0 Numbered List;}
+{\s23\cf3\f0\fs24\lang1025\sbasedon71 DocumentMap;}
+{\s55\fi-423\li720\f0\fs24\lang0 Implies List;}
+{\s8\qj\li360\sa117\fs22\sbasedon90 Body Text Indent;}
+{\s85\fi-423\li720\f0\fs24\lang0 Tick List;}
+{\s92\tqc\tx4320\tqr\tx8640\sbasedon90 header;}
+{\s51\sb240\sa60\cf3\f0\fs22\lang1025\sbasedon71 Heading 9;}
+{\*\cs57\sbasedon20 Internet Link;}
+{\s19\fi-423\li720\f0\fs24\lang0 Dashed List;}
+{\s80\fi-423\li720\f0\fs24\lang0 Star List;}
+{\s93\qj\f10\fs22\b\sbasedon90\snext90 heading 3;}
+{\s42\sb440\sa60\cf3\f5\fs34\b\lang1025\sbasedon71\snext71 Heading 1;}
+{\s44\sb440\sa60\cf3\f5\fs28\b\lang1025\sbasedon71\snext71 Heading 2;}
+{\s46\qj\sb440\sa60\cf3\f10\fs22\b\lang1025\sbasedon90\snext71 Heading 3;}
+{\s48\sb440\sa60\cf3\f5\fs24\b\lang1025\sbasedon71\snext71 Heading 4;}
+{\s86\fi-850\li850\sa117\cf3\f0\fs24\b\lang1025\sbasedon71 Tit;}
+{\s49\cf3\f0\fs24\i\lang1025\sbasedon71 Heading 6;}
+{\*\cs40\fs24\sbasedon20 Header Char;}
+{\*\cs81\b\sbasedon20 Strong;}
+{\s4\qj\fi810\li-180\ri180\sa117\f8\fs20\lang0\sbasedon71 Block Text;}}
+{\*\listtable
+{\list\listtemplateid1055\listsimple{\listlevel\levelnfc23\levelstartat1\levelspace0\levelfollow0\fi-360\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1010}
+{\list\listtemplateid1056\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-423\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1056}
+{\list\listtemplateid1057\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-423\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1152}
+{\list\listtemplateid1058\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-423\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1511}
+{\list\listtemplateid1059\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-423\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}}\listid1505}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid1010\levelnfc23\levelstartat1\levelspace0\levelfollow0\fi-360\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls1}
+{\listoverride\listoverridecount0\listid1056\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-423\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls2}
+{\listoverride\listoverridecount0\listid1152\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-423\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls3}
+{\listoverride\listoverridecount0\listid1511\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-423\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls4}
+{\listoverride\listoverridecount0\listid1505\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-423\li720{\leveltext\'01\u8226 ;}{\levelnumbers;}\ls5}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw11900\paperh16841\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx0\margtsxn1133\margbsxn1133\marglsxn1077\margrsxn1797\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\lang0{\*\listtag0}\abinodiroverride\ltrch Vignesh.S}{\s71\cf3\f0\fs28\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\lang0{\*\listtag0}\abinodiroverride\ltrch Software Engineer}{\s71\cf3\f0\fs28\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\lang0{\*\listtag0}\abinodiroverride\ltrch E-mail:}{\s71\cf3\f0\fs28\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f0\fs28\lang0{\*\listtag0}ganeshs.srinivasan@gmail.com}{\s71\cf3\f0\fs28\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\lang0{\*\listtag0}\abinodiroverride\ltrch Phone-no:}{\s71\cf3\f0\fs28\lang0\ltrch\abiltr{\*\listtag0} 091-}{\s71\cf3\f0\fs28\lang0{\*\listtag0}8122896500}{\s71\cf3\f0\fs28\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch Objective:}{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\fi720\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025{\*\listtag0}\abinodiroverride\ltrch To seek a challenging IT career in a reputed concern which promises growth and career Development along with the development of the organization}{\s71\cf3\f1\fs24\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch Technology:}{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f2\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}Languages}{\s71\cf3\f1\fs20\b\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs20\b\lang1025\ltrch\abiltr{\*\listtag0}-}{\s71\cf3\f1\fs20\b\lang1025\ltrch\abiltr{\*\listtag0}  }{\s71\cf3\f1\fs20\lang1025\ltrch\abiltr{\*\listtag0}C,Java,clojure.}{\s71\cf3\f2\fs24\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs20\b\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f3\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}Javascript-framework}{\s71\cf3\f1\fs20\lang1025\ltrch\abiltr{\*\listtag0}-ember js}{\s71\cf3\f3\fs20\b\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}Database}{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}      }{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}-}{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}Oracle}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}9i}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0},MySQL.}{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f3\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}NoSqlDatabase}{\s71\cf3\f3\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}  }{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}-cassandra}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0},Hbase.}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f3\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}In memory database}{\s71\cf3\f3\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}  }{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}-}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}cq-engine}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f3\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}Distributed Messaging system}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}-Kafka}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}Software tools}{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0} & }{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}Utilities}{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}  }{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}-}{\s71\cf3\f3\fs24\lang1025\ltrch\abiltr{\*\listtag0}Intelli j}{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}Operating systems}{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}  }{\s71\cf3\f1\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}-}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}Windows family}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f3\fs24\b\lang1025\ltrch\abiltr{\*\listtag0}Restfull framework}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}-RestExpress}{\s71\cf3\f1\fs24\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f1\fs24\lang1025{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch Qualification:}{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\par}
+{\listtext\pard\qj\fi-360\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-360\li720\s71{\*\abilist\abilistid1010\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart1\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}\abinodiroverride\ltrch B.E Computer Science}{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0} & }{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}Engineering}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}\uc1\u8211\'96}{\s71\cf3\f4\fs20\b\lang0{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}Sri Sai Ram Institute of Technology(Affliated to Anna University}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0})}{\s71\cf3\f4\fs20\lang0{\*\listtag0},}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}Tamil Nadu}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} (}{\s71\cf3\f4\fs20\lang0{\*\listtag0}2013}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0})}{\s71\cf3\f4\fs20\b\lang0{\*\listtag0} }{\s71\cf3\f0\fs28\b\ul\lang0{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch CAREER HISTORY:}{\s71\cf3\f4\fs20\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\ul\lang0{\*\listtag0}\par}
+{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1056\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}\abinodiroverride\ltrch February}{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}2014-February}{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}2015}{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0}                  }{\s71\cf3\f4\fs20\b\ul\lang0{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0}    }{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0}REDUCEDATA LLC,COIMBATORE,INDIA}{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0}                     }{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0}SOFTWARE DEVELOPER}{\s71\cf3\f4\fs20\b\lang0\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch PROJECTS:}{\s71\cf3\f4\fs20\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\b\ul\lang0{\*\listtag0}\par}
+{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1152\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch Real Time Data Processing and Analytics using Zookeper quorum,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}Distributed Kafka,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}Distributed Hbase}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}and Multiple Reporters.}{\s71\cf3\f4\fs20\b\ul\lang0{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1152\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch Data Visualization using D3JS and NBD3}{\s71\cf3\f4\fs20\lang0{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1152\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch D}{\s71\cf3\f0\fs24\lang0{\*\listtag0}evelopment and Deployment of Ad builder like facebook and algorithmic marketplace }{\s71\cf3\f4\fs20\lang0{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1152\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s71\cf3\f0\fs24\lang0{\*\listtag0}\abinodiroverride\ltrch Network Api using }{\s71\cf3\f3\fs24\b\lang0{\*\listtag0}Rest Express}{\s71\cf3\f0\fs28\lang0{\*\listtag0} with Netty IO}{\s71\cf3\f0\fs24\lang0{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1152\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch Agency White Label features}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} (}{\s71\cf3\f4\fs20\lang0{\*\listtag0}Multi Agency,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}Multi account and Multi User management}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}) }{\s71\cf3\f4\fs20\lang0{\*\listtag0}with custom logo,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}custom css and custom name}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}domain}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}URL}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}configuration.}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f0\fs28\lang0{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1152\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}High Performance,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}High Availability and Low latency}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} (< }{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}1}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}ms internal processing }{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}Ctime}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}) }{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}DSP Ad Server using }{\s71\cf3\f3\fs20\b\lang0\ltrch\abiltr{\*\listtag0}Java}{\s71\cf3\f3\fs20\b\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f3\fs20\b\lang0\ltrch\abiltr{\*\listtag0}7,}{\s71\cf3\f3\fs20\b\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f3\fs20\b\lang0\ltrch\abiltr{\*\listtag0}REST Express,Dependency Injection Pattern, Apache Kafka.}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1152\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0{\*\listtag0}Telecom Data analysis using graph database }{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}Neo4j}{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs28\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch COMPUTER KNOWLEDGE:}{\s71\cf3\f3\fs28\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs28\b\ul\lang0{\*\listtag0}\par}
+{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1511\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch Well versed in MS Word,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}MS Excel,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}MS PowerPoint,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}and MS Access,}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f4\fs20\lang0{\*\listtag0}internet and email as well as a variety of in-house software packages.}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0} }{\s71\cf3\f3\fs28\b\ul\lang0{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1511\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}Excellent keyboard/typing skills.}{\s71\cf3\f4\fs20\lang0\ltrch\abiltr{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f4\fs20\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs28\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch PERSONAL:}{\s71\cf3\f3\fs28\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs28\b\ul\lang0{\*\listtag0}\par}
+{\listtext\pard\qj\fi-423\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-423\li720\s71{\*\abilist\abilistid1505\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Liberation Sans}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls5\ilvl0\sl240\slmult1\itap0{\s71\cf3\f3\fs20\lang0{\*\listtag0}\abinodiroverride\ltrch Fluent in}{\s71\cf3\f3\fs20\b\lang0{\*\listtag0} English,Hindi,Tamil.}{\s71\cf3\f3\fs28\b\ul\lang0{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0\tx2880{\s71\cf3\f3\fs20\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f6\fs28\i\b\ul\lang0{\*\listtag0}\abinodiroverride\ltrch Declaration:}{\s71\cf3\f6\fs28\i\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s71\sl240\slmult1\itap0{\s71\cf3\f6\fs28\i\b\ul\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s39\sl240\slmult1\itap0\tx720\tqc\tx4320\tqc\tx4320\tqr\tx8640\tqr\tx8640{\s39\cf3\f0\fs28\lang1025\ltrch\abiltr{\*\listtag0}\tab              }{\s39\cf3\f0\fs28\lang1025\ltrch\abiltr{\*\listtag0}The information furnished above is correct to the best of my knowledge.}{\s39\cf3\f0\fs28\lang1025\ltrch\abiltr{\*\listtag0}\tab \tab }{\s39\cf3\f0\fs28\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s39\sl240\slmult1\itap0\tx720\tqc\tx4320\tqc\tx4320\tqr\tx8640\tqr\tx8640{\s39\cf3\f0\fs28\lang1025\ltrch\abiltr{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\ri-547\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\lang0{\*\listtag0}Date:}{\s71\cf3\f0\fs28\lang0\ltrch\abiltr{\*\listtag0}\tab }{\s71\cf3\f0\fs28\b\lang0{\*\listtag0}\tab             \tab \tab \tab \tab \tab \tab \tab        }{\s71\cf3\f0\fs28\lang0{\*\listtag0}Signature}{\s71\cf3\f0\fs28\lang0\ltrch\abiltr{\*\listtag0}                                                                                                              }{\s71\cf3\f0\fs28\b\lang0{\*\listtag0}\tab }{\s71\cf3\f0\fs28\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\li3600\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs28\b\lang0{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\li3600\s71\sl240\slmult1\itap0{\s71\cf3\f0\fs24\lang1025{\*\listtag0}\par}}
